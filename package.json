@@ -19,6 +19,7 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.1.1",
     "react-slick": "^0.30.3",
+    "relationship_website_mobile": "file:",
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
