@@ -100,8 +100,7 @@ const config = {
   pictureTitle: "Onze herinneringen",
   pictureGallery: [
     { title: "15 April 2025", description: "Eerste bloemen, na zoveel uitstel 🌸" },
-    { title: "22 April 2025", description: "It's official 🌸" },
-    { title: "Başka ne var?", description: "Daha fazla, umarım. ;)" },
+    { title: "22 April 2025", description: "It's official ;)" },
   ],
 
   // 💌 Love Letter Page
